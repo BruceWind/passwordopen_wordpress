@@ -85,6 +85,7 @@ wp.getTags
 # 
 那么我们在wordpress主站地址后追加：**/xmlrpc.php**即可得到如下截图：
 ![](https://leanote.com/api/file/getImage?fileId=563cd1cb38f411249a000669)
+
 **XML-RPC server accepts POST requests only**.
 是告诉我们需要用post方式提交。
 
