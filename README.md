@@ -211,5 +211,7 @@ PS：
 
 
 
+这里有2个目录一个 xmlrpc目录，就是说wordpress的xmlrpc漏洞的，另外一个适用于其他网站的post请求漏洞，不单单适用于wordpress。
+
 
 
